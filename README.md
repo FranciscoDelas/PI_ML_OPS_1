@@ -1,6 +1,5 @@
 # Proyecto Machine Learning Operations (MLOps)
--->> Link al video explicativo y que muestra funcionamiento de API:
-https://drive.google.com/drive/folders/1TJA06SWvwAn7hFBQOB9mf8wL8hHa3uuc?usp=share_link
+
 
 ## El proyecto se centra en la creación de un MVP de un sistema de recomendación de videojuegos para usuarios en la plataforma Steam. Como Data Scientist en Steam, el objetivo es abordar los desafíos de un conjunto de datos poco maduro y realizar tareas de Data Engineering para preparar los datos, diseñar y entrenar un modelo de Machine Learning que brinde recomendaciones de juegos personalizadas a los usuarios. El enfoque es desarrollar un Minimum Viable Product (MVP) de manera rápida para cumplir con los objetivos del proyecto.
 ________________________________________________________________________________________________________________________
